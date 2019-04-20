@@ -1,2 +1,3 @@
 # Hello-world
-my first Git practice
+My first Git practice
+Good ahead!
